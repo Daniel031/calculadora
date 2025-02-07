@@ -24,14 +24,3 @@ Una calculadora simple construida con Express.js que permite realizar operacione
 - [Express.js](https://expressjs.com/) - Framework web para Node.js.
 - HTML, CSS y JavaScript - Para la interfaz de usuario.
 
-## Estructura de Carpetas
-
-calculadora-express/
-│
-├── package.json
-├── package-lock.json
-├── server.js
-└── public/
-├── index.html
-└── styles.css
-
